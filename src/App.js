@@ -4,7 +4,7 @@
 function App() {
   return (
     <div className="App">
-      Awesome builder by Elaman Agai
+      Awesome builder by YntyCtrl
     </div>
   );
 }
