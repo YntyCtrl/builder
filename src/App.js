@@ -50,47 +50,7 @@ function App() {
         Awesome builder by YntyCtrl<br/>
         Awesome builder by YntyCtrl<br/>
       </Layout>
-      <Layout>
-      Awesome builder by YntyCtrl<br/>
-        Awesome builder by YntyCtrl<br/>
-        Awesome builder by YntyCtrl<br/>
-        Awesome builder by YntyCtrl<br/>
-        Awesome builder by YntyCtrl<br/>
-        Awesome builder by YntyCtrl<br/>
-        Awesome builder by YntyCtrl<br/>
-        Awesome builder by YntyCtrl<br/>
-        Awesome builder by YntyCtrl<br/>
-        Awesome builder by YntyCtrl<br/>
-        Awesome builder by YntyCtrl<br/>
-        Awesome builder by YntyCtrl<br/>
-        Awesome builder by YntyCtrl<br/>
-        Awesome builder by YntyCtrl<br/>
-        Awesome builder by YntyCtrl<br/>
-        Awesome builder by YntyCtrl<br/>
-        Awesome builder by YntyCtrl<br/>
-        Awesome builder by YntyCtrl<br/>
-        Awesome builder by YntyCtrl<br/>
-        Awesome builder by YntyCtrl<br/>
-        Awesome builder by YntyCtrl<br/>
-        Awesome builder by YntyCtrl<br/>
-        Awesome builder by YntyCtrl<br/>
-        Awesome builder by YntyCtrl<br/>
-        Awesome builder by YntyCtrl<br/>
-        Awesome builder by YntyCtrl<br/>
-        Awesome builder by YntyCtrl<br/>
-        Awesome builder by YntyCtrl<br/>
-        Awesome builder by YntyCtrl<br/>
-        Awesome builder by YntyCtrl<br/>
-        Awesome builder by YntyCtrl<br/>
-        Awesome builder by YntyCtrl<br/>
-        Awesome builder by YntyCtrl<br/>
-        Awesome builder by YntyCtrl<br/>
-        Awesome builder by YntyCtrl<br/>
-        Awesome builder by YntyCtrl<br/>
-        Awesome builder by YntyCtrl<br/>
-        Awesome builder by YntyCtrl<br/>
-        Awesome builder by YntyCtrl<br/>
-      </Layout>
+      
 
     </div>
   );
